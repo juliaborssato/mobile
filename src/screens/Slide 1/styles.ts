@@ -24,5 +24,12 @@ export const styles = StyleSheet.create({
         padding: 20,
         fontFamily: 'LuckiestGuy_400Regular',
         color: '#7C7C7C'
+    },
+    ball: {
+        width: 100,
+        height: 30,
+        borderRadius: 15,
+        flexDirection: 'row',
+        justifyContent: 'space-around'
     }
 })
